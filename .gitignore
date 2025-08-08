@@ -1,0 +1,8 @@
+/.gradle
+/local.properties
+/.idea
+*.iml
+/build
+/app/build
+/src/main/cpp/*.o
+/src/main/cpp/*.so
